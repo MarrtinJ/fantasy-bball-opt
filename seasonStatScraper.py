@@ -1,16 +1,21 @@
 import argparse
 import requests
 import re
+import time as t
 from datetime import date
 from bs4 import BeautifulSoup
 import pandas as pd
 
-from variables import team_dictionary, month_dictionary, month_list
+from variables import team_dictionary, team_dictionary3, month_dictionary, month_list
 
 def main():
+    # 2015-2016
+    getSeasonStats('https://www.basketball-reference.com/leagues/NBA_2016_games.html')
+
     # getSeasonStats('https://www.basketball-reference.com/leagues/NBA_2019_games.html')
-    getSeasonStats('https://www.basketball-reference.com/leagues/NBA_2020_games.html')
+    # getSeasonStats('https://www.basketball-reference.com/leagues/NBA_2020_games.html')
     # getSeasonStats('https://www.basketball-reference.com/leagues/NBA_2021_games.html')
+    # getSeasonStats('https://www.basketball-reference.com/leagues/NBA_2022_games.html')
 
 
 def getSeasonStats(season_url):
@@ -44,6 +49,8 @@ def getSeasonStats(season_url):
             # print(month_link)
             month_links.append(month_link)
     
+    # print(month_links)
+    
     # dictionary of lists holding the months, urls, indexes
     pages_dict = {'Month': [], 'Url': [], 'Index': []}
     box_score_links = []
@@ -73,24 +80,28 @@ def getSeasonStats(season_url):
 
                 mon = month_dictionary[date[0]]
                 date = f'{year}{mon}{day}'
+                # print(date)
                 page_dates.append(date)
         
-        if len(page_box_score_links) == 0 or len(box_scores)/len(page_box_score_links) != 4:
-            # error checking just in case
-            print('case 1')
-            pages_dict['Url'].append(link)
-            pages_dict['Month'].append(month)
-            # keep track of the index to be able to pause/continue scraping at any given point
-            pages_dict['Index'].append(len(page_box_score_links))
-        else: # if len(page_box_score_links) != 0
+        # if len(page_box_score_links) == 0 or len(box_scores)/len(page_box_score_links) != 4:
+        #     # error checking just in case
+        #     print('case 1')
+        #     pages_dict['Url'].append(link)
+        #     pages_dict['Month'].append(month)
+        #     pages_dict['Index'].append(len(page_box_score_links))
+        # else: 
+        if len(page_box_score_links) != 0:
             # print('Case 2')
-            # print(f'Month: {month}\tNumGames: {len(page_box_score_links)}')
+            print(f'Month: {month}\tNumGames: {len(page_box_score_links)}')
             pages_dict['Url'].append(link)
             pages_dict['Month'].append(month)
             pages_dict['Index'].append(None)
         box_score_links.append(page_box_score_links)
         all_dates.append(page_dates)
+        # break
 
+    # print(pages_dict)
+    # print(box_score_links)
 
     df_columns = ['Date', 'Name', 'Team', 'MP', 'FG', 'FGA', 'FG%', '3P', '3PA',
                '3P%','FT', 'FTA', 'FT%', 'ORB', 
@@ -100,27 +111,30 @@ def getSeasonStats(season_url):
     count = 0
     for l, d in zip(box_score_links, all_dates):
         for link, date in zip(l, d):
-            # if count == 30:
+            # if count == 1:
             #     break
 
             print(f'\nScraping {link}\tDate: {date}')
-
-            # scrape first table (away team)
+            
             response = requests.get(link)
+            # response = requests.get('https://www.basketball-reference.com/boxscores/201510300ORL.html')
             soup = BeautifulSoup(response.text, 'html.parser')
-            table1 = soup.find('table', {'class': "sortable stats_table"})
-            # filtering out just the team name
-            team1 = table1.text.split('\n')[1]
-            parenthesis = team1.find('(') 
-            team1 = team1[:parenthesis - 1]
+            
+            # get team names
+            teams = soup.find('div', {'class': 'scorebox'})
+            teams = teams.find_all('strong')
+            team1 = teams[0].text.split('\n')[1]
+            team2 = teams[1].text.split('\n')[1]
 
-            # scrape second table (home team)
-            table2 = soup.find_all('table', {'class': 'sortable stats_table'})
-            team2 = table2[8].text.split('\n')[1]
-            parenthesis = team2.find('(')
-            team2 = team2[:parenthesis - 1]
+            # get first table (away team)
+            id1 = f'box-{team_dictionary3[team1].upper()}-game-basic'
+            table1 = soup.find('table', {'class': "sortable stats_table", 'id':id1})
 
-            print(f'{team1} vs {team2}')
+            # get second table (home team)
+            id2 = f'box-{team_dictionary3[team2].upper()}-game-basic'
+            table2 = soup.find('table', {'class': "sortable stats_table", 'id':id2})
+
+            print(f'_{team_dictionary3[team1].upper()}_ vs _{team_dictionary3[team2].upper()}_')
 
             # a dictionary to form a dataframe from
             player_dict = {'Date': [], 'Name': [], 'Team': [], 'MP': [],
@@ -183,7 +197,7 @@ def getSeasonStats(season_url):
                     player_dict['+-'].append(player[19])
             
             # scraping second table
-            table2 = table2[8].find('tbody')
+            table2 = table2.find('tbody')
             table2 = table2.find_all('tr')
             
             # get all info from the tables
@@ -242,6 +256,8 @@ def getSeasonStats(season_url):
             # concatenate overall dataframe with player dataframe
             stat_df = pd.concat((stat_df, player_df), axis=0, ignore_index=True)
             count += 1
+            # t.sleep(3)
+
     print(stat_df)
 
     stat_df.to_csv(f'{season}BoxScores.csv', line_terminator='\n', index=False)

@@ -15,9 +15,11 @@ def main():
     # creates a dataframe for a season and exports that dataframe to a csv
 
     # years and months of a season, alter these years and months to fit the season to scrape for
-    cal = {"2019": ['10', '11', '12'], "2020": ['01', '02', '03', '07', '08', '09', '10']}
+    cal_15_16 = {"2015": ['10', '11', '12'], "2016": ['01', '02', '03', '04', '05', '06']}
+    cal_19_20 = {"2019": ['10', '11', '12'], "2020": ['01', '02', '03', '07', '08', '09', '10']}
 
-    for year, mons in cal.items(): 
+    # change the calendar year to change the season to scrape
+    for year, mons in cal_15_16.items(): 
         for mon in mons:
             for i in range(1, 32):
                 # for each day in a month

@@ -1,0 +1,351 @@
+PG,SG,SF,PF,C,G,F,UTIL,Date,Score,Genetic
+Patrick Beverley,Josh Hart,Kawhi Leonard,Brandon Ingram,Montrezl Harrell,Danny Green,Nicolo Melli,Anthony Davis,20191022,304.0,307.75
+Devonte Graham,Luke Kennard,Justise Winslow,Domantas Sabonis,Myles Turner,Donovan Mitchell,Lauri Markkanen,Andre Drummond,20191023,420.0,410.75
+George Hill,James Harden,Giannis Antetokounmpo,Patrick Patterson,Ivica Zubac,Trae Young,Ersan Ilyasova,Andre Drummond,20191024,348.75,360.25
+Allonzo Trier,Jaylen Brown,Jayson Tatum,Frank Kaminsky,Karl-Anthony Towns,Shai Gilgeous-Alexander,Thomas Bryant,Zach LaVine,20191025,408.25,375.25
+Derrick Rose,Malcolm Brogdon,OG Anunoby,Frank Kaminsky,Kevin Love,Trae Young,Brandon Ingram,Tristan Thompson,20191026,410.25,386.25
+Quinn Cook,CJ McCollum,Duncan Robinson,Kristaps Porzingis,Cody Zeller,Kyrie Irving,Rodney Hood,Luka Doncic,20191027,381.25,377.0
+Dennis Schroder,Damion Lee,Brandon Ingram,Richaun Holmes,Bobby Portis,Damian Lillard,Draymond Green,Joel Embiid,20191028,416.75,380.25
+Goran Dragic,Jalen Brunson,Will Barton,Paul Millsap,Bam Adebayo,Tyler Herro,John Collins,Anthony Davis,20191029,341.0,329.75
+Malcolm Brogdon,Bradley Beal,JaMychal Green,Dario Saric,Nerlens Noel,James Harden,Kevin Love,Aron Baynes,20191030,443.25,425.25
+Derrick White,DeAndre Bembry,Jabari Parker,Meyers Leonard,Jahlil Okafor,Jimmy Butler,DeMar DeRozan,Kawhi Leonard,20191031,342.5,345.0
+Patty Mills,Jeremy Lamb,Garrett Temple,Marcus Morris,Andre Drummond,Kemba Walker,Taurean Prince,LeBron James,20191101,435.25,394.75
+Jeff Teague,Bruce Brown,Dwayne Bacon,Gorgui Dieng,Brandon Clarke,Kyle Lowry,Giannis Antetokounmpo,Andre Drummond,20191102,408.0,398.25
+Dejounte Murray,Duncan Robinson,Marcus Morris,Meyers Leonard,Dwight Howard,Donovan Mitchell,LeBron James,Luka Doncic,20191103,389.25,364.75
+Ky Bowman,Donte DiVincenzo,Bruce Brown,Eric Paschall,Al Horford,Kyrie Irving,Brandon Ingram,James Harden,20191104,407.25,403.5
+Quinn Cook,Zach LaVine,Will Barton,TJ Warren,Jerami Grant,Trae Young,Gordon Hayward,LeBron James,20191105,382.75,361.5
+Michael Carter-Williams,Alec Burks,Doug McDermott,Jonathan Isaac,Montrezl Harrell,Tomas Satoransky,Giannis Antetokounmpo,James Harden,20191106,440.0,422.0
+Goran Dragic,Devonte Graham,Kawhi Leonard,Miles Bridges,Ivica Zubac,Dejounte Murray,LaMarcus Aldridge,Hassan Whiteside,20191107,355.75,333.25
+TJ McConnell,Spencer Dinwiddie,Evan Fournier,Marcus Morris,Nikola Vucevic,Jamal Murray,Pascal Siakam,DAngelo Russell,20191108,436.75,384.5
+Devonte Graham,JJ Redick,Kenrich Williams,Jae Crowder,Derrick Favors,Luka Doncic,Wendell Carter Jr,James Harden,20191109,368.75,363.0
+Dennis Schroder,Fred VanVleet,Cameron Johnson,Jabari Parker,Domantas Sabonis,Trae Young,Evan Fournier,Cody Zeller,20191110,384.0,354.25
+DAngelo Russell,Jaylen Brown,Rondae Hollis-Jefferson,Rudy Gay,Derrick Favors,Jrue Holiday,Andrew Wiggins,Rudy Gobert,20191111,351.75,337.25
+RJ Barrett,Coby White,Bogdan Bogdanovic,Frank Kaminsky,Joel Embiid,Trae Young,Nemanja Bjelica,DeAndre Jordan,20191112,396.0,366.25
+Malik Monk,Fred VanVleet,JaMychal Green,Aaron Gordon,JaVale McGee,Terry Rozier,Andrew Wiggins,James Harden,20191113,419.75,390.0
+Frank Jackson,Rodney McGruder,Kenrich Williams,Derrick Favors,Alex Len,Jrue Holiday,Giannis Antetokounmpo,Luka Doncic,20191114,396.0,371.5
+Langston Galloway,Donovan Mitchell,Evan Fournier,Al-Farouq Aminu,Moritz Wagner,Bradley Beal,Cody Martin,James Harden,20191115,393.5,385.75
+Seth Curry,Jerome Robinson,Paul George,LaMarcus Aldridge,Myles Turner,CJ McCollum,Norman Powell,James Harden,20191116,384.75,363.0
+Ky Bowman,Nickeil Alexander-Walker,Eric Paschall,Tobias Harris,Nikola Vucevic,Jamal Murray,Buddy Hield,LeBron James,20191117,412.75,395.25
+Aaron Holiday,Luka Doncic,Dorian Finney-Smith,Skal Labissiere,Brook Lopez,Russell Westbrook,Montrezl Harrell,Clint Capela,20191118,429.75,411.75
+Devin Booker,Alec Burks,Draymond Green,Nassir Little,Marquese Chriss,Bogdan Bogdanovic,Richaun Holmes,Anthony Davis,20191119,367.5,361.75
+Ben Simmons,Bryn Forbes,Shaquille Harrison,DeAndre Hunter,Jarrett Allen,Jimmy Butler,Marcus Morris,Luka Doncic,20191120,406.0,382.75
+Eric Bledsoe,Mikal Bridges,Brandon Ingram,Giannis Antetokounmpo,Skal Labissiere,JJ Redick,Pat Connaughton,CJ McCollum,20191121,396.0,403.75
+DeAndre Bembry,Bruce Brown,Justin Jackson,Miles Bridges,Steven Adams,James Harden,Ben Simmons,Nikola Jokic,20191122,379.0,351.5
+Coby White,Jordan Clarkson,Josh Richardson,Wendell Carter Jr,Bismack Biyombo,Zach LaVine,Jonathan Isaac,Trae Young,20191123,383.0,365.5
+Will Barton,Jamal Murray,ETwaun Moore,Cheick Diallo,Richaun Holmes,Spencer Dinwiddie,Dario Saric,Montrezl Harrell,20191124,330.75,341.5
+Ky Bowman,Marcus Smart,Carmelo Anthony,Kelly Olynyk,Tony Bradley,Buddy Hield,Giannis Antetokounmpo,Jarrett Allen,20191125,402.75,372.0
+Luka Doncic,Jordan McRae,Troy Brown Jr,Paul George,Jerami Grant,Kawhi Leonard,Will Barton,Monte Morris,20191126,284.75,294.25
+Kemba Walker,Zach LaVine,Dario Saric,Omari Spellman,Jonas Valanciunas,Jrue Holiday,Jabari Parker,Tomas Satoransky,20191127,426.25,385.75
+DeAndre Bembry,Norman Powell,Bojan Bogdanovic,Abdel Nader,PJ Washington,Trae Young,Luka Doncic,Jonas Valanciunas,20191129,391.75,349.5
+Terry Rozier,Austin Rivers,Ben McLemore,TJ Warren,Robin Lopez,Trae Young,Ben Simmons,James Harden,20191130,374.75,361.5
+DeAnthony Melton,Delon Wright,Jayson Tatum,Bruno Caboclo,Pascal Siakam,Fred VanVleet,Christian Wood,Luka Doncic,20191201,387.5,365.5
+Ricky Rubio,Joe Ingles,Solomon Hill,Eric Paschall,Al Horford,Ben Simmons,Domantas Sabonis,Rudy Gobert,20191202,346.5,340.5
+DJ Augustin,Jimmy Butler,PJ Tucker,Patrick Patterson,Clint Capela,Isaiah Thomas,Paul Millsap,James Harden,20191203,382.25,376.75
+Rajon Rondo,CJ McCollum,Taurean Prince,Aaron Gordon,Dwight Powell,Devonte Graham,Jimmy Butler,Hassan Whiteside,20191204,417.5,404.75
+Ricky Rubio,Fred VanVleet,PJ Tucker,Mason Plumlee,Joel Embiid,Ben McLemore,Tobias Harris,Devin Booker,20191205,393.5,381.25
+Jeff Teague,Tyler Herro,Cedi Osman,Harrison Barnes,Andre Drummond,Jimmy Butler,Davis Bertans,Nikola Jokic,20191206,401.5,363.5
+Trey Burke,Devin Booker,Joe Ingles,Kyle OQuinn,Domantas Sabonis,Ben Simmons,Dario Saric,Russell Westbrook,20191207,378.5,364.25
+Alex Caruso,Troy Brown Jr,OG Anunoby,Nemanja Bjelica,Nerlens Noel,LeBron James,Kawhi Leonard,Anthony Davis,20191208,400.0,383.75
+Cory Joseph,Mikal Bridges,PJ Tucker,Paul George,Domantas Sabonis,Patrick Beverley,Giannis Antetokounmpo,Marc Gasol,20191209,373.25,342.0
+Anfernee Simons,Terry Rozier,DeAndre Hunter,Davis Bertans,Hassan Whiteside,Will Barton,Bobby Portis,Bismack Biyombo,20191210,325.75,344.0
+Jeff Teague,Malcolm Brogdon,Thaddeus Young,Ersan Ilyasova,Frank Kaminsky,Kemba Walker,Marcus Morris,James Harden,20191211,424.25,383.0
+Seth Curry,Tony Snell,Jordan Clarkson,Jerami Grant,Hassan Whiteside,Luka Doncic,Kevin Love,Joel Embiid,20191212,397.0,387.0
+Jeff Teague,Buddy Hield,Jae Crowder,Marquese Chriss,JaVale McGee,James Harden,Royce ONeale,Paul George,20191213,390.0,363.0
+Chris Clemons,Bruce Brown,Dillon Brooks,Montrezl Harrell,Marc Gasol,Bradley Beal,Pascal Siakam,Nikola Jokic,20191214,403.5,398.5
+Elfrid Payton,Frank Ntilikina,Bogdan Bogdanovic,Jonathan Isaac,Myles Turner,Jrue Holiday,LeBron James,Nikola Jokic,20191215,369.75,349.25
+Darius Garland,Seth Curry,Norman Powell,Carmelo Anthony,Kristaps Porzingis,Bruce Brown,Giannis Antetokounmpo,Chris Paul,20191216,401.75,385.25
+Malik Monk,Spencer Dinwiddie,Kevin Huerter,Bojan Bogdanovic,Domantas Sabonis,Trae Young,Joe Harris,Mitchell Robinson,20191217,363.75,345.5
+Kyle Lowry,Terry Rozier,OG Anunoby,Paul Millsap,Serge Ibaka,Damian Lillard,Kevin Love,Lauri Markkanen,20191218,388.5,380.75
+Derrick White,Danny Green,Jabari Parker,LaMarcus Aldridge,Jarrett Allen,Patty Mills,Paul George,Anthony Davis,20191219,359.75,358.5
+Alec Burks,Jamal Murray,Damion Lee,Bobby Portis,Nikola Vucevic,CJ McCollum,Jordan Clarkson,Bradley Beal,20191220,383.0,364.0
+Shabazz Napier,Bradley Beal,Kevin Knox,Richaun Holmes,DeAndre Jordan,Trae Young,Garrett Temple,Hassan Whiteside,20191221,394.0,369.75
+Dennis Schroder,Gary Harris,Miles Bridges,Jayson Tatum,Domantas Sabonis,Shai Gilgeous-Alexander,Will Barton,Steven Adams,20191222,381.75,364.75
+DeAaron Fox,Troy Brown Jr,Tobias Harris,Jonathan Isaac,Julius Randle,Ben Simmons,Trey Lyles,LaMarcus Aldridge,20191223,417.75,373.0
+Fred VanVleet,Glenn Robinson III,Kyle Kuzma,Brandon Ingram,Chris Boucher,Damion Lee,Ben Simmons,Kawhi Leonard,20191225,372.25,366.25
+CJ McCollum,Donovan Mitchell,Rudy Gay,Julius Randle,Christian Wood,Chris Paul,Joe Ingles,Gorgui Dieng,20191226,355.5,358.75
+Shai Gilgeous-Alexander,Allen Crabbe,Aaron Gordon,Ersan Ilyasova,Bam Adebayo,Devin Booker,Tobias Harris,DAngelo Russell,20191227,337.0,338.0
+Patrick McCaw,James Harden,Kelan Martin,Noah Vonleh,Ersan Ilyasova,Luka Doncic,Jonathan Isaac,Julius Randle,20191228,411.25,383.75
+Chris Clemons,ETwaun Moore,Buddy Hield,Nemanja Bjelica,Anthony Davis,Lonzo Ball,Brandon Ingram,Isaiah Hartenstein,20191229,348.5,348.0
+Brandon Goodwin,Jordan McRae,Garrison Mathews,Giannis Antetokounmpo,Hassan Whiteside,Spencer Dinwiddie,Khris Middleton,Ian Mahinmi,20191230,368.75,364.5
+Monte Morris,Alec Burks,Miles Bridges,Maxi Kleber,Domantas Sabonis,Kemba Walker,Gordon Hayward,Luka Doncic,20191231,354.75,345.25
+Frank Ntilikina,Markelle Fultz,Kyle Kuzma,Giannis Antetokounmpo,Khem Birch,DJ Augustin,Julius Randle,LeBron James,20200101,357.75,355.5
+Terry Rozier,Jeremy Lamb,JaMychal Green,Robert Covington,Wendell Carter Jr,Shai Gilgeous-Alexander,Domantas Sabonis,DeAaron Fox,20200102,365.0,338.0
+Marcus Smart,Jordan McRae,Danny Green,Daniel Theis,Aron Baynes,James Harden,Ben Simmons,Clint Capela,20200103,435.5,435.5
+Lonzo Ball,Troy Brown Jr,Justin Holiday,Omari Spellman,Andre Drummond,Fred VanVleet,Jae Crowder,Trae Young,20200104,409.75,399.25
+Dante Exum,Devin Booker,Mikal Bridges,Meyers Leonard,Gorgui Dieng,Goran Dragic,Anthony Davis,Damian Lillard,20200105,387.25,380.25
+Markelle Fultz,Terry Rozier,Trevor Ariza,TJ Warren,Steven Adams,Will Barton,Tomas Satoransky,Nikola Jokic,20200106,381.0,355.5
+Jarrett Culver,Tony Snell,Trevor Ariza,Jae Crowder,Hassan Whiteside,Devin Booker,Carmelo Anthony,Andre Drummond,20200107,347.25,336.5
+Terence Davis,James Harden,Kris Dunn,Khem Birch,Jaxson Hayes,Trae Young,Bobby Portis,Clint Capela,20200108,422.5,387.0
+Chris Paul,Marcus Smart,Josh Richardson,Robert Covington,Al Horford,Darius Garland,Danilo Gallinari,Tristan Thompson,20200109,336.25,344.5
+Spencer Dinwiddie,Sterling Brown,Khris Middleton,Kawhi Leonard,Jaxson Hayes,Patrick Beverley,DeMar DeRozan,Myles Turner,20200110,414.0,391.0
+Devonte Graham,Dwayne Bacon,Joe Ingles,Julius Randle,Ian Mahinmi,DAngelo Russell,Jimmy Butler,Jonas Valanciunas,20200112,368.5,365.5
+Shabazz Napier,Marcus Smart,Ben Simmons,PJ Washington,Jahlil Okafor,CJ McCollum,Nemanja Bjelica,Shai Gilgeous-Alexander,20200113,382.5,416.0
+RJ Barrett,Kevin Huerter,Mikal Bridges,Julius Randle,Rudy Gobert,Kyrie Irving,Dillon Brooks,Boban Marjanovic,20200114,376.75,367.75
+Kendrick Nunn,Markelle Fultz,Wes Iwundu,Mike Muscala,Domantas Sabonis,DeAaron Fox,Tobias Harris,Russell Westbrook,20200115,407.75,390.0
+Malik Beasley,Donovan Mitchell,Bojan Bogdanovic,JaMychal Green,Mason Plumlee,Will Barton,Giannis Antetokounmpo,Ricky Rubio,20200116,405.0,427.0
+Terence Davis,Cam Reddish,Norman Powell,TJ Warren,Marc Gasol,Damian Lillard,DeMar DeRozan,Hassan Whiteside,20200117,377.5,357.0
+Langston Galloway,Gary Trent Jr,Mikal Bridges,Jayson Tatum,Rudy Gobert,Marcus Smart,Kawhi Leonard,Devin Booker,20200118,426.25,405.25
+Patty Mills,Malcolm Brogdon,Jimmy Butler,Doug McDermott,Jerami Grant,DeMar DeRozan,LaMarcus Aldridge,Domantas Sabonis,20200119,302.0,326.25
+Bryn Forbes,Derrick White,Eric Paschall,Giannis Antetokounmpo,Ian Mahinmi,Alec Burks,Dillon Brooks,Ben Simmons,20200120,422.5,397.25
+Reggie Jackson,Dennis Schroder,Bradley Beal,Thon Maker,LaMarcus Aldridge,Lonzo Ball,John Collins,Russell Westbrook,20200122,419.25,411.0
+Rajon Rondo,Gary Trent Jr,Bradley Beal,Trevor Ariza,Dwight Howard,Collin Sexton,LeBron James,Damian Lillard,20200123,358.75,356.0
+Derrick White,Josh Hart,Keita Bates-Diop,TJ Warren,Kelly Olynyk,Russell Westbrook,Kawhi Leonard,Kemba Walker,20200124,400.25,387.5
+Tomas Satoransky,Zach LaVine,Hamidou Diallo,Darius Bazley,Jarrett Allen,Shabazz Napier,Ben Simmons,Kyrie Irving,20200125,393.25,367.5
+Austin Rivers,Michael Carter-Williams,Jeremy Lamb,Deandre Ayton,Bruno Fernando,Trae Young,Domantas Sabonis,Damian Lillard,20200126,411.0,383.0
+Donovan Mitchell,Patty Mills,Buddy Hield,Nemanja Bjelica,Bam Adebayo,Delon Wright,Eric Gordon,Jakob Poeltl,20200127,400.75,390.25
+Draymond Green,Jrue Holiday,Mikal Bridges,Thomas Bryant,Jonas Valanciunas,Bradley Beal,Khris Middleton,Eric Bledsoe,20200128,423.75,405.75
+Elfrid Payton,Bogdan Bogdanovic,Chandler Hutchison,Christian Wood,Mitchell Robinson,Russell Westbrook,Taurean Prince,Damian Lillard,20200129,362.75,344.75
+Cory Joseph,Jordan Clarkson,Miles Bridges,Gordon Hayward,Dewayne Dedmon,DeAaron Fox,Bradley Beal,Trae Young,20200130,408.75,404.0
+Malik Beasley,Pat Connaughton,Kyle Kuzma,Kristaps Porzingis,Luke Kornet,Kyrie Irving,Anthony Davis,Damian Lillard,20200131,411.0,393.75
+Jalen Brunson,Jaylen Brown,Dorian Finney-Smith,Meyers Leonard,Cody Zeller,Damian Lillard,Draymond Green,Hassan Whiteside,20200201,403.5,384.0
+Jevon Carter,Terence Davis,Ben McLemore,Brandon Ingram,Brook Lopez,Lonzo Ball,Giannis Antetokounmpo,James Harden,20200202,380.0,360.75
+Brad Wanamaker,Jimmy Butler,Caris LeVert,Aaron Gordon,LaMarcus Aldridge,Elfrid Payton,Kristaps Porzingis,Jonas Valanciunas,20200203,410.5,383.25
+Bryn Forbes,Ben McLemore,Kyle Kuzma,Miles Bridges,PJ Tucker,James Harden,Brandon Ingram,Nikola Jokic,20200204,373.0,369.25
+Reggie Jackson,Landry Shamet,Jordan Poole,Jayson Tatum,Andre Drummond,Kyle Lowry,Justin Holiday,Nikola Jokic,20200205,427.75,391.25
+Ryan Arcidiacono,Coby White,Gary Trent Jr,Trey Lyles,Hassan Whiteside,Elfrid Payton,Anthony Davis,Giannis Antetokounmpo,20200206,379.5,350.25
+Devin Booker,Furkan Korkmaz,Jayson Tatum,Bojan Bogdanovic,Christian Wood,Damian Lillard,Kevin Huerter,Thon Maker,20200207,391.25,386.0
+Jordan McLaughlin,Malik Beasley,Buddy Hield,Marquese Chriss,Deandre Ayton,Dejounte Murray,Anthony Davis,Jrue Holiday,20200208,420.25,379.5
+Ja Morant,Gary Trent Jr,Trevor Ariza,Jae Crowder,Joel Embiid,Furkan Korkmaz,Julius Randle,James Harden,20200209,432.0,418.75
+Jordan Clarkson,Jimmy Butler,OG Anunoby,Pascal Siakam,Kelly Olynyk,Eric Bledsoe,Khris Middleton,Kyle Lowry,20200210,418.75,398.0
+Coby White,Zach LaVine,Robert Covington,Rui Hachimura,LaMarcus Aldridge,Chris Paul,Ben Simmons,Dejounte Murray,20200211,383.5,376.0
+Malik Monk,Anfernee Simons,TJ Warren,Kristaps Porzingis,Tristan Thompson,DAngelo Russell,LeBron James,Malik Beasley,20200212,405.0,363.75
+Lonzo Ball,Jrue Holiday,Danilo Gallinari,Marcus Morris,Montrezl Harrell,Chris Paul,Kawhi Leonard,JJ Redick,20200213,330.0,331.75
+Tyus Jones,DeAnthony Melton,Juan Toscano-Anderson,Cody Zeller,Bam Adebayo,Trae Young,Giannis Antetokounmpo,Thaddeus Young,20200220,393.25,378.25
+Emmanuel Mudiay,CJ McCollum,TJ Warren,Pascal Siakam,Daniel Theis,Dejounte Murray,Anthony Davis,Steven Adams,20200221,413.5,379.5
+Garrett Temple,Kendrick Nunn,Cedi Osman,Kelly Olynyk,Deandre Ayton,James Harden,John Collins,Ricky Rubio,20200222,389.5,374.0
+Ky Bowman,Coby White,Juan Toscano-Anderson,Paul Millsap,Hassan Whiteside,Jrue Holiday,Christian Wood,CJ McCollum,20200223,395.75,402.0
+Dennis Smith Jr,Donovan Mitchell,Khris Middleton,JaMychal Green,Gorgui Dieng,Ricky Rubio,Aaron Gordon,Joel Embiid,20200224,419.75,402.0
+Alex Caruso,Coby White,Danny Green,Jerami Grant,Domantas Sabonis,Zach LaVine,Brandon Ingram,CJ McCollum,20200225,369.0,355.75
+Austin Rivers,Evan Fournier,DeMar DeRozan,Aaron Gordon,Bismack Biyombo,Russell Westbrook,Caris LeVert,Mitchell Robinson,20200226,393.5,366.5
+Shake Milton,CJ McCollum,Gary Trent Jr,Al Horford,Julius Randle,Elfrid Payton,Tobias Harris,Dwight Howard,20200227,342.5,338.75
+Derrick Rose,Cam Reddish,OG Anunoby,DeAndre Hunter,Jonas Valanciunas,Terrence Ross,Aaron Gordon,Bradley Beal,20200228,395.5,355.0
+Ja Morant,Spencer Dinwiddie,Rudy Gay,Trey Lyles,Jonas Valanciunas,Russell Westbrook,Kevin Huerter,Andre Drummond,20200229,411.0,385.0
+Shake Milton,Seth Curry,Dorian Finney-Smith,Davis Bertans,Alex Len,LeBron James,OG Anunoby,Kristaps Porzingis,20200301,411.0,399.0
+Tyus Jones,RJ Barrett,Josh Jackson,Bojan Bogdanovic,Nikola Vucevic,Collin Sexton,Robert Covington,CJ McCollum,20200302,376.5,371.0
+Dejounte Murray,Norman Powell,Cameron Johnson,Chris Boucher,Naz Reid,Caris LeVert,Pascal Siakam,Anthony Davis,20200303,401.5,392.5
+Tyus Jones,Collin Sexton,Jayson Tatum,Semi Ojeleye,Naz Reid,Goran Dragic,Kevin Love,Lonzo Ball,20200304,384.75,352.5
+Devonte Graham,Damion Lee,Norman Powell,Mike Scott,Ivica Zubac,Russell Westbrook,Tobias Harris,Marquese Chriss,20200305,343.75,329.25
+Ja Morant,Matthew Dellavedova,Glenn Robinson III,John Collins,Al Horford,Will Barton,Bogdan Bogdanovic,Jonas Valanciunas,20200307,360.75,362.75
+Avery Bradley,Jrue Holiday,Tim Hardaway Jr,Domantas Sabonis,Myles Turner,Shabazz Napier,Norman Powell,Ricky Rubio,20200308,416.75,402.25
+Devonte Graham,Terry Rozier,Kyle Korver,Jerami Grant,Paul Millsap,Caleb Martin,Pascal Siakam,Serge Ibaka,20200309,372.0,380.0
+Frank Ntilikina,Derrick White,Dario Saric,Bobby Portis,Domantas Sabonis,Victor Oladipo,Gordon Hayward,Luka Doncic,20200310,391.75,357.5
+Jordan Clarkson,Dion Waiters,JJ Redick,Brandon Ingram,Anthony Davis,Donovan Mitchell,Kyle Kuzma,Paul George,20200730,292.75,299.75
+Brad Wanamaker,Derrick White,Bogdan Bogdanovic,Khem Birch,Brandon Clarke,DeAaron Fox,Giannis Antetokounmpo,James Harden,20200731,388.5,368.25
+Fred VanVleet,Jimmy Butler,OG Anunoby,Kelly Olynyk,Joel Embiid,Kyle Lowry,TJ Warren,Aaron Holiday,20200801,408.0,405.25
+Michael Carter-Williams,Troy Brown Jr,Cameron Johnson,Harry Giles,Thomas Bryant,Damian Lillard,Jayson Tatum,Giannis Antetokounmpo,20200802,412.0,388.75
+Mike Conley,Grayson Allen,JJ Redick,Royce ONeale,Nikola Jokic,Malcolm Brogdon,TJ Warren,Anthony Davis,20200803,374.5,356.75
+Devin Booker,Andre Iguodala,Dorian Finney-Smith,Kelly Olynyk,Jeff Green,Luka Doncic,Jusuf Nurkic,Bam Adebayo,20200804,376.75,355.75
+Brad Wanamaker,Derrick White,Keldon Johnson,Rudy Gay,Rudy Gobert,Fred VanVleet,Joe Ingles,Joel Embiid,20200805,348.25,328.5
+Eric Bledsoe,James Harden,Ben McLemore,Kyle Kuzma,Ivica Zubac,Gary Trent Jr,Khris Middleton,Damian Lillard,20200806,399.75,399.0
+Jrue Holiday,Luguentz Dort,Bogdan Bogdanovic,Al Horford,Jarrett Allen,Alec Burks,Troy Brown Jr,Tobias Harris,20200807,318.25,321.5
+CJ McCollum,Jevon Carter,Duncan Robinson,Carmelo Anthony,Brook Lopez,Tyler Herro,Giannis Antetokounmpo,Donovan Mitchell,20200808,376.0,376.0
+Austin Rivers,Matisse Thybulle,Josh Richardson,Robert Covington,Jarrett Allen,Damian Lillard,Kawhi Leonard,Gary Clark,20200809,379.75,408.25
+Devin Booker,Norman Powell,Jimmy Butler,Chris Boucher,Boban Marjanovic,Cameron Payne,Rayjon Tucker,LeBron James,20200810,352.5,371.25
+Ja Morant,Devin Booker,Keldon Johnson,Harrison Barnes,Kyle OQuinn,Damian Lillard,Dzanan Musa,Kristaps Porzingis,20200811,417.25,403.0
+James Harden,Furkan Korkmaz,Tobias Harris,Chris Boucher,Darius Bazley,Tyler Herro,Justin Holiday,Nikola Jokic,20200812,379.25,376.0
+Damian Lillard,Bogdan Bogdanovic,Josh Hart,Nemanja Bjelica,Boban Marjanovic,Caris LeVert,Jarrell Brantley,Jonas Valanciunas,20200813,448.0,430.5
+Terence Davis,Paul Watson,Stanley Johnson,Alize Johnson,Jeff Green,PJ Dozier,Hamidou Diallo,James Harden,20200814,317.0,322.75
+Jordan Clarkson,Fred VanVleet,OG Anunoby,Jayson Tatum,Serge Ibaka,Donovan Mitchell,Kawhi Leonard,Marcus Morris,20200817,387.5,383.5
+DJ Augustin,Jimmy Butler,Carmelo Anthony,Danilo Gallinari,Jeff Green,Goran Dragic,LeBron James,Nikola Vucevic,20200818,375.5,359.25
+Trey Burke,Norman Powell,Royce ONeale,Jayson Tatum,Jarrett Allen,Jordan Clarkson,Kawhi Leonard,Fred VanVleet,20200819,340.75,325.75
+Goran Dragic,Kentavious Caldwell-Pope,Pat Connaughton,Jae Crowder,Myles Turner,Shai Gilgeous-Alexander,Giannis Antetokounmpo,Nikola Vucevic,20200820,313.5,316.25
+Chris Chiozza,Tyler Johnson,Tim Hardaway Jr,Pascal Siakam,Serge Ibaka,Kemba Walker,Kawhi Leonard,Kristaps Porzingis,20200821,350.75,336.0
+DJ Augustin,CJ McCollum,Carmelo Anthony,Jae Crowder,Jeff Green,Goran Dragic,LeBron James,Malcolm Brogdon,20200822,380.25,370.75
+Mike Conley,Donovan Mitchell,Norman Powell,Paul Millsap,Serge Ibaka,Reggie Jackson,Jayson Tatum,Jamal Murray,20200823,410.5,396.75
+George Hill,James Harden,Danny Green,Mario Hezonja,Myles Turner,Markelle Fultz,Victor Oladipo,Nikola Vucevic,20200824,353.5,337.75
+Landry Shamet,Joe Ingles,Marcus Morris,Maxi Kleber,Nikola Jokic,Jamal Murray,Kawhi Leonard,Montrezl Harrell,20200825,308.75,306.5
+Anfernee Simons,Kentavious Caldwell-Pope,Robert Covington,Marvin Williams,Darius Bazley,CJ McCollum,Anthony Davis,LeBron James,20200829,348.0,338.5
+Reggie Jackson,Donovan Mitchell,Torrey Craig,Daniel Theis,Robert Williams,Kemba Walker,Kawhi Leonard,Jamal Murray,20200830,360.75,338.75
+Chris Paul,Jimmy Butler,Robert Covington,Darius Bazley,PJ Tucker,Goran Dragic,Khris Middleton,Brook Lopez,20200831,323.75,323.5
+Monte Morris,Torrey Craig,OG Anunoby,Pascal Siakam,Serge Ibaka,Marcus Smart,Jayson Tatum,Rudy Gobert,20200901,288.25,280.75
+Goran Dragic,Tyler Herro,Luguentz Dort,Jae Crowder,Kelly Olynyk,Chris Paul,Giannis Antetokounmpo,Robert Covington,20200902,327.5,325.5
+Patrick Beverley,Marcus Smart,Jerami Grant,Paul Millsap,Mason Plumlee,Jaylen Brown,OG Anunoby,Kyle Lowry,20200903,258.0,309.75
+Rajon Rondo,Alex Caruso,Jimmy Butler,Jae Crowder,Brook Lopez,Tyler Herro,Anthony Davis,Bam Adebayo,20200904,297.5,280.25
+Kyle Lowry,Jamal Murray,Jerami Grant,Semi Ojeleye,JaMychal Green,Gary Harris,Paul George,Nikola Jokic,20200905,291.25,283.25
+Rajon Rondo,Donte DiVincenzo,Eric Gordon,Markieff Morris,Anthony Davis,LeBron James,Khris Middleton,PJ Tucker,20200906,341.5,346.25
+Brad Wanamaker,Matt Thomas,Jaylen Brown,JaMychal Green,Nikola Jokic,Gary Harris,Kawhi Leonard,Paul George,20200907,291.75,278.5
+Donte DiVincenzo,Tyler Herro,Andre Iguodala,Kelly Olynyk,Anthony Davis,Rajon Rondo,LeBron James,Russell Westbrook,20200908,321.75,310.25
+Landry Shamet,Torrey Craig,Norman Powell,Pascal Siakam,Ivica Zubac,Fred VanVleet,Kawhi Leonard,Kyle Lowry,20200909,304.0,307.75
+Monte Morris,Marcus Smart,Marcus Morris,Paul Millsap,Marc Gasol,Jaylen Brown,Jayson Tatum,Paul George,20200911,283.0,283.5
+Patrick Beverley,Tyler Herro,Jerami Grant,JaMychal Green,Nikola Jokic,Goran Dragic,Jae Crowder,Jamal Murray,20200915,331.75,320.25
+Goran Dragic,Duncan Robinson,Jaylen Brown,Jae Crowder,Daniel Theis,Kemba Walker,Kelly Olynyk,Bam Adebayo,20200917,243.0,249.5
+Rajon Rondo,Kentavious Caldwell-Pope,LeBron James,Jerami Grant,Mason Plumlee,Jamal Murray,Anthony Davis,Dwight Howard,20200918,239.5,242.0
+Marcus Smart,Duncan Robinson,Grant Williams,Kelly Olynyk,Bam Adebayo,Tyler Herro,Jayson Tatum,Jaylen Brown,20200919,271.5,271.5
+Rajon Rondo,Alex Caruso,Kentavious Caldwell-Pope,Anthony Davis,Nikola Jokic,Monte Morris,Danny Green,Jamal Murray,20200920,256.75,256.75
+Monte Morris,Jamal Murray,Torrey Craig,Jerami Grant,Nikola Jokic,Rajon Rondo,LeBron James,JaVale McGee,20200922,274.75,271.5
+Goran Dragic,Tyler Herro,Andre Iguodala,Jayson Tatum,Bam Adebayo,Brad Wanamaker,Jimmy Butler,Robert Williams,20200923,261.5,259.5
+Monte Morris,Torrey Craig,LeBron James,Jerami Grant,Dwight Howard,Rajon Rondo,Anthony Davis,Jamal Murray,20200924,263.75,263.75
+Marcus Smart,Duncan Robinson,Solomon Hill,Jae Crowder,Daniel Theis,Jaylen Brown,Andre Iguodala,Jayson Tatum,20200925,254.5,268.0
+Monte Morris,Alex Caruso,Danny Green,Jerami Grant,Dwight Howard,Jamal Murray,LeBron James,Nikola Jokic,20200926,281.25,278.0
+Marcus Smart,Duncan Robinson,Grant Williams,Jayson Tatum,Daniel Theis,Jaylen Brown,Andre Iguodala,Bam Adebayo,20200927,279.5,277.75
+Stephen Curry,Joe Harris,Nicolas Batum,Montrezl Harrell,James Wiseman,Dennis Schroder,Caris LeVert,Paul George,20201222,295.0,294.75
+Darius Garland,Terry Rozier,Jaylen Brown,Harrison Barnes,Domantas Sabonis,Dejounte Murray,Khris Middleton,Ja Morant,20201223,423.5,391.25
+Goran Dragic,Duncan Robinson,Nicolas Batum,Bobby Portis,Zion Williamson,Jaylen Brown,Khris Middleton,Kyrie Irving,20201225,349.25,341.25
+George Hill,James Harden,Terrence Ross,PJ Washington,Christian Wood,Darius Garland,Chris Boucher,Andre Drummond,20201226,407.5,378.25
+Elfrid Payton,Raul Neto,Brandon Ingram,Gordon Hayward,Marc Gasol,Stephen Curry,Julius Randle,Wendell Carter Jr,20201227,389.0,384.25
+Delon Wright,Gary Trent Jr,Josh Jackson,Kyle Anderson,Nikola Jokic,Dillon Brooks,LeBron James,Mike Conley,20201228,374.25,370.5
+Monte Morris,Andrew Wiggins,OG Anunoby,Jerami Grant,Isaiah Roby,Russell Westbrook,Tobias Harris,Julius Randle,20201229,389.5,358.0
+LaMelo Ball,Tyler Herro,Miles Bridges,Giannis Antetokounmpo,Bam Adebayo,Dejounte Murray,Jaylen Brown,Gorgui Dieng,20201230,398.5,396.0
+Lonzo Ball,Fred VanVleet,Harrison Barnes,Thaddeus Young,Daniel Gafford,Russell Westbrook,Domantas Sabonis,Richaun Holmes,20201231,345.25,332.5
+Mike Conley,Keldon Johnson,Saddiq Bey,Kyle Anderson,Derrick Favors,Paul George,DeMar DeRozan,Kawhi Leonard,20210101,378.0,352.25
+Eric Bledsoe,Fred VanVleet,Darius Bazley,Gordon Hayward,JaVale McGee,Malcolm Brogdon,Tobias Harris,Clint Capela,20210102,381.0,378.0
+Kyrie Irving,Zach LaVine,Royce ONeale,Jarrett Culver,Thomas Bryant,Jalen Brunson,Bojan Bogdanovic,Stephen Curry,20210103,395.25,375.5
+Payton Pritchard,Fred VanVleet,Cedi Osman,Julius Randle,Robert Williams,Luka Doncic,RJ Barrett,Khem Birch,20210104,393.0,363.0
+Patty Mills,DAngelo Russell,Nicolas Batum,Jarred Vanderbilt,Jarrett Allen,Patrick Beverley,Anthony Davis,Nikola Jokic,20210105,396.75,395.5
+Austin Rivers,Tyrese Haliburton,Danny Green,Saddiq Bey,Joel Embiid,Coby White,Gordon Hayward,Bradley Beal,20210106,415.0,399.75
+Shake Milton,Anthony Edwards,Joe Harris,Dorian Finney-Smith,Jarred Vanderbilt,Damian Lillard,Caris LeVert,Luka Doncic,20210107,380.5,360.5
+Jordan Clarkson,Zach LaVine,Hamidou Diallo,PJ Tucker,Chris Boucher,Caris LeVert,Royce ONeale,Stephen Curry,20210108,400.75,376.5
+Trey Burke,Tim Hardaway Jr,Deni Avdija,Domantas Sabonis,Bobby Portis,LaMelo Ball,Jimmy Butler,Andre Drummond,20210109,415.25,400.75
+Mike Conley,Garrett Temple,Talen Horton-Tucker,Kevin Durant,Draymond Green,Shai Gilgeous-Alexander,Hamidou Diallo,Zach LaVine,20210110,371.5,346.0
+Brandon Goodwin,CJ McCollum,Kevin Knox,Carmelo Anthony,Richaun Holmes,Bradley Beal,Harrison Barnes,Pascal Siakam,20210111,366.25,349.75
+Gabe Vincent,Aaron Holiday,Andrew Wiggins,Precious Achiuwa,Myles Turner,Tyler Herro,Kevin Durant,Nikola Jokic,20210112,399.0,372.75
+Damian Lillard,Nickeil Alexander-Walker,Grayson Allen,PJ Washington,Jonas Valanciunas,Luka Doncic,Buddy Hield,Kenrich Williams,20210113,397.75,370.0
+TJ McConnell,Shake Milton,Sterling Brown,JaeSean Tate,Christian Wood,Stephen Curry,Chris Boucher,Nikola Jokic,20210114,385.25,366.75
+Terance Mann,Zach LaVine,Luke Kennard,Semi Ojeleye,Andre Drummond,Luka Doncic,Cedi Osman,Immanuel Quickley,20210115,363.75,350.25
+Shake Milton,Mason Jones,Norman Powell,PJ Washington,Jakob Poeltl,James Harden,Jerami Grant,Nikola Vucevic,20210116,399.0,389.5
+Immanuel Quickley,Garrett Temple,Edmond Sumner,Marcus Morris,Nikola Jokic,DeAaron Fox,PJ Dozier,Luka Doncic,20210117,391.75,361.25
+Kendrick Nunn,Wayne Ellington,Kevin Huerter,Chris Boucher,DeAndre Jordan,DAngelo Russell,Anthony Davis,Clint Capela,20210118,365.5,336.0
+Monte Morris,Joe Ingles,Luguentz Dort,Isaiah Roby,Rudy Gobert,Donovan Mitchell,Paul Millsap,Nikola Jokic,20210119,306.0,298.0
+Terence Davis,Kendrick Nunn,Andre Iguodala,Jaden McDaniels,Deandre Ayton,Kyrie Irving,Kevin Durant,Joel Embiid,20210120,391.5,356.5
+Mike Conley,Kentavious Caldwell-Pope,Kent Bazemore,Julius Randle,Nerlens Noel,Jrue Holiday,LeBron James,Donovan Mitchell,20210121,332.0,327.25
+Rajon Rondo,Evan Fournier,David Nwaba,LaMarcus Aldridge,DeMarcus Cousins,Luka Doncic,Jaylen Brown,Clint Capela,20210122,384.25,345.0
+Eric Bledsoe,Wayne Ellington,Eric Gordon,Jarred Vanderbilt,DeMarcus Cousins,Jamal Murray,Anthony Davis,Bam Adebayo,20210123,371.25,341.5
+Immanuel Quickley,Justin Holiday,Miles Bridges,DeAndre Hunter,Myles Turner,Damian Lillard,OG Anunoby,Gordon Hayward,20210124,379.75,354.5
+Anfernee Simons,Delon Wright,Jeremy Lamb,Thaddeus Young,Mike Muscala,Malcolm Brogdon,LeBron James,Luka Doncic,20210125,423.25,387.75
+Reggie Jackson,Austin Rivers,David Nwaba,Royce ONeale,DeMarcus Cousins,Trae Young,DeAndre Hunter,Rudy Gobert,20210126,337.25,330.75
+Jordan Clarkson,Joe Ingles,Norman Powell,Taurean Prince,Al Horford,James Harden,Buddy Hield,Rudy Gobert,20210127,404.75,381.75
+Gabe Vincent,Tyler Herro,Abdel Nader,Kyle Kuzma,Bam Adebayo,Victor Oladipo,LeBron James,Frank Kaminsky,20210128,325.25,331.5
+Theo Maledon,Tyrese Haliburton,Harrison Barnes,DeMar DeRozan,Hassan Whiteside,Lonzo Ball,Giannis Antetokounmpo,Joel Embiid,20210129,372.75,348.25
+LaMelo Ball,Nickeil Alexander-Walker,Jimmy Butler,Thaddeus Young,Cody Zeller,Chris Paul,Giannis Antetokounmpo,Willie Cauley-Stein,20210130,389.75,366.75
+Immanuel Quickley,Will Barton,Joe Harris,Jeff Green,Moritz Wagner,Russell Westbrook,Pascal Siakam,Nikola Jokic,20210131,393.75,372.75
+Chris Paul,Malik Monk,Nassir Little,Keldon Johnson,Cody Zeller,DeAaron Fox,Julius Randle,Jarrett Allen,20210201,422.25,419.0
+Kyle Lowry,Josh Jackson,Royce ONeale,Carmelo Anthony,Mason Plumlee,Fred VanVleet,Domantas Sabonis,Myles Turner,20210202,394.0,374.5
+Luka Doncic,Denzel Valentine,Darius Bazley,Bobby Portis,Jakob Poeltl,Kevin Huerter,John Collins,Domantas Sabonis,20210203,381.0,379.25
+Stephen Curry,CJ Elleby,Talen Horton-Tucker,Juan Toscano-Anderson,Joel Embiid,LeBron James,Carmelo Anthony,Draymond Green,20210204,331.5,326.25
+Kendrick Nunn,Justin Holiday,Patrick Williams,Bojan Bogdanovic,Al Horford,LaMelo Ball,Pascal Siakam,Nikola Vucevic,20210205,428.25,415.25
+Tomas Satoransky,Shai Gilgeous-Alexander,Jake Layman,Draymond Green,Chris Boucher,Stephen Curry,Josh Jackson,Nikola Jokic,20210206,427.0,377.25
+Terry Rozier,Devin Booker,Reggie Bullock,Frank Kaminsky,Ivica Zubac,Donovan Mitchell,Julius Randle,Rudy Gobert,20210207,339.0,331.5
+Jaylen Nowell,Malik Beasley,ETwaun Moore,Darius Bazley,Jonas Valanciunas,Dejounte Murray,Khris Middleton,Kristaps Porzingis,20210208,413.5,387.75
+Delon Wright,Bruce Brown,Josh Hart,Jerami Grant,Nikola Vucevic,Donovan Mitchell,Jimmy Butler,Dwight Howard,20210209,382.25,378.25
+Kira Lewis Jr,Terry Rozier,Kenrich Williams,Giannis Antetokounmpo,DeAndre Jordan,Zach LaVine,Kevin Huerter,Al Horford,20210210,383.5,368.0
+Ben Simmons,Dwayne Bacon,Max Strus,Semi Ojeleye,Isaiah Stewart,Stephen Curry,Jimmy Butler,Domantas Sabonis,20210211,362.25,349.5
+Michael Carter-Williams,Dylan Windler,Saddiq Bey,Nemanja Bjelica,Nikola Vucevic,Terry Rozier,Jayson Tatum,Luka Doncic,20210212,417.25,379.25
+TJ McConnell,Malcolm Brogdon,Doug McDermott,Georges Niang,Myles Turner,James Harden,Kevin Huerter,Clint Capela,20210213,329.5,326.0
+Patrick Beverley,Terry Rozier,Justin Jackson,Saddiq Bey,Mason Plumlee,Derrick White,Giannis Antetokounmpo,Dejounte Murray,20210214,385.75,361.25
+Jordan Clarkson,David Nwaba,Cedi Osman,Tobias Harris,Julius Randle,Ben Simmons,Jimmy Butler,Hassan Whiteside,20210215,450.25,444.0
+Ja Morant,Facundo Campazzo,Pat Connaughton,Giannis Antetokounmpo,Robert Williams,Anthony Edwards,Josh Hart,James Harden,20210216,384.5,365.5
+Jamal Murray,JJ Redick,Davis Bertans,Isaiah Roby,Domantas Sabonis,Damian Lillard,Terrence Ross,Seth Curry,20210217,417.25,405.25
+Tyler Herro,Duncan Robinson,Andre Iguodala,Nemanja Bjelica,Pascal Siakam,Norman Powell,Jimmy Butler,LeBron James,20210218,323.25,326.0
+Dennis Smith Jr,Evan Fournier,Norman Powell,Chuma Okeke,Nikola Vucevic,Lonzo Ball,Daniel Theis,Joel Embiid,20210219,404.75,366.0
+Cameron Payne,Terry Rozier,Buddy Hield,Robert Covington,Robin Lopez,Kendrick Nunn,Mikal Bridges,Damian Lillard,20210220,341.0,333.25
+Saben Lee,Tyrese Haliburton,DaQuan Jeffries,Al-Farouq Aminu,Karl-Anthony Towns,Trae Young,Khris Middleton,Jarrett Allen,20210221,385.75,364.0
+Kendrick Nunn,Coby White,Tim Hardaway Jr,Georges Niang,Wendell Carter Jr,Bradley Beal,David Nwaba,Russell Westbrook,20210222,367.75,350.5
+Saben Lee,Bryn Forbes,Bruce Brown,Draymond Green,Moritz Wagner,Tyrese Haliburton,Giannis Antetokounmpo,James Harden,20210223,381.75,350.25
+Shai Gilgeous-Alexander,Malik Monk,Danilo Gallinari,Jarred Vanderbilt,Steven Adams,Anthony Edwards,Jimmy Butler,Jarrett Allen,20210224,402.0,368.0
+Raul Neto,Donte DiVincenzo,Harrison Barnes,Zion Williamson,Dwight Howard,Immanuel Quickley,Giannis Antetokounmpo,Jamal Murray,20210225,368.25,360.0
+Kemba Walker,Ty Jerome,Harrison Barnes,Draymond Green,Richaun Holmes,Kyle Lowry,LeBron James,Robert Williams,20210226,403.0,369.75
+Jaylen Nowell,Derrick Rose,Garrison Mathews,Isaiah Roby,Julius Randle,TJ McConnell,DeMar DeRozan,Russell Westbrook,20210227,361.75,353.5
+DeAnthony Melton,Devin Booker,Buddy Hield,Brandon Clarke,Daniel Theis,Bradley Beal,PJ Washington,Kendrick Nunn,20210228,384.0,366.0
+Shake Milton,Collin Sexton,Bojan Bogdanovic,Carmelo Anthony,Robert Covington,Lonzo Ball,Furkan Korkmaz,James Harden,20210301,406.5,388.75
+Reggie Jackson,DeAnthony Melton,Luka Samanic,Dario Saric,Nikola Jokic,Immanuel Quickley,LeBron James,Ja Morant,20210302,374.75,341.0
+Dennis Smith Jr,Victor Oladipo,Rodney McGruder,Al-Farouq Aminu,Mason Plumlee,TJ McConnell,Danilo Gallinari,James Harden,20210303,419.5,416.0
+Cameron Payne,Jordan Poole,Jayson Tatum,Kelly Olynyk,Myles Turner,Dillon Brooks,Julius Randle,DeAaron Fox,20210304,406.5,374.5
+Ja Morant,Desmond Bane,Deni Avdija,Rudy Gay,Maxi Kleber,Luka Doncic,DeMar DeRozan,Jonas Valanciunas,20210310,337.5,326.25
+Jaylen Nowell,Devin Booker,Josh Richardson,Jaden McDaniels,Aleksej Pokusevski,Kyrie Irving,Jimmy Butler,Chris Boucher,20210311,390.0,362.5
+Nickeil Alexander-Walker,Furkan Korkmaz,Will Barton,Kenyon Martin Jr,Nikola Jokic,Malcolm Brogdon,Kyle Kuzma,Donovan Mitchell,20210312,345.5,328.5
+Anfernee Simons,Donte DiVincenzo,Rodney McGruder,Henry Ellenson,Rui Hachimura,Russell Westbrook,Giannis Antetokounmpo,Domantas Sabonis,20210313,373.75,353.0
+Tomas Satoransky,Anthony Edwards,Patrick Williams,Aleksej Pokusevski,Draymond Green,Norman Powell,Jimmy Butler,Rudy Gobert,20210314,409.75,391.0
+Delon Wright,Reggie Bullock,Talen Horton-Tucker,Jeff Green,Brook Lopez,Luka Doncic,Giannis Antetokounmpo,Richaun Holmes,20210315,386.25,354.75
+Ricky Rubio,Tony Snell,Danilo Gallinari,Daniel Theis,Moses Brown,LeBron James,JaeSean Tate,Damian Lillard,20210316,396.0,387.0
+DeAnthony Melton,Donte DiVincenzo,Pat Connaughton,Saddiq Bey,Robert Williams,Delon Wright,Domantas Sabonis,James Harden,20210317,405.25,387.25
+Frank Ntilikina,Bogdan Bogdanovic,Alec Burks,Robert Covington,Karl-Anthony Towns,Joe Ingles,Anthony Edwards,Russell Westbrook,20210318,396.25,367.25
+Luka Doncic,Damion Lee,Lamar Stevens,Keldon Johnson,Nikola Vucevic,TJ McConnell,Tim Hardaway Jr,Andrew Wiggins,20210319,412.75,402.5
+Jordan Poole,Desmond Bane,Miles Bridges,Juan Toscano-Anderson,Jonas Valanciunas,Paul George,DeMar DeRozan,Tobias Harris,20210320,345.25,330.0
+Chris Paul,Collin Sexton,Isaac Okoro,Brandon Ingram,Alex Len,Russell Westbrook,Talen Horton-Tucker,Mason Plumlee,20210321,367.0,336.25
+Terance Mann,Luke Kennard,Gordon Hayward,Richaun Holmes,Rudy Gobert,Jrue Holiday,Jaylen Brown,JaeSean Tate,20210322,385.0,386.0
+Kira Lewis Jr,Nickeil Alexander-Walker,Al-Farouq Aminu,Brandon Ingram,Tony Bradley,Evan Fournier,Tobias Harris,Nikola Jokic,20210323,363.75,357.5
+Reggie Jackson,Tyler Herro,Danny Green,Juan Toscano-Anderson,Bam Adebayo,CJ McCollum,RJ Barrett,DeAaron Fox,20210325,392.75,372.25
+Eric Bledsoe,Ben McLemore,Trevor Ariza,Khem Birch,John Collins,Ja Morant,Zion Williamson,James Harden,20210326,425.75,404.75
+DeAaron Fox,Jordan Clarkson,Alec Burks,Thanasis Antetokounmpo,Kelly Olynyk,Paul George,Zion Williamson,Moses Brown,20210327,390.25,368.5
+Dennis Schroder,Fred VanVleet,Kyle Kuzma,JaMychal Green,Markieff Morris,Dwayne Bacon,Robert Covington,CJ McCollum,20210328,327.0,317.25
+Cory Joseph,Hamidou Diallo,Jaden McDaniels,Kelly Olynyk,Isaiah Hartenstein,James Harden,Richaun Holmes,Russell Westbrook,20210329,422.75,405.25
+Jamal Murray,Bogdan Bogdanovic,Gordon Hayward,Rui Hachimura,Robin Lopez,Russell Westbrook,Jae Crowder,Cody Zeller,20210330,359.0,356.75
+Mike Conley,Jrue Holiday,Denzel Valentine,Bojan Bogdanovic,OG Anunoby,Devin Booker,Duncan Robinson,Kyrie Irving,20210331,383.5,361.75
+Shake Milton,Bogdan Bogdanovic,Josh Jackson,Draymond Green,Dwight Howard,Stephen Curry,Jeff Green,Clint Capela,20210401,386.75,363.75
+Chris Paul,Bogdan Bogdanovic,James Johnson,Miles Bridges,Robert Williams,Malachi Flynn,Pascal Siakam,Giannis Antetokounmpo,20210402,394.75,364.5
+Jordan McLaughlin,Donte DiVincenzo,Terence Davis,Taurean Prince,Karl-Anthony Towns,Caris LeVert,Tobias Harris,Jrue Holiday,20210403,386.25,375.75
+RJ Hampton,Kyrie Irving,Danilo Gallinari,James Johnson,Clint Capela,Tomas Satoransky,Kelly Olynyk,Lonzo Ball,20210404,360.0,351.0
+Malachi Flynn,Devin Booker,DeAndre Bembry,Dorian Finney-Smith,Deandre Ayton,Darius Garland,Harrison Barnes,Julius Randle,20210405,387.5,379.5
+Lonzo Ball,Paul George,DeAndre Bembry,Kyle Anderson,Bam Adebayo,Jeremy Lamb,Will Barton,Nikola Vucevic,20210406,378.0,340.5
+John Wall,Jaylen Brown,Aleksej Pokusevski,Jalen McDaniels,Onyeka Okongwu,TJ McConnell,Kelly Olynyk,Russell Westbrook,20210407,395.0,369.25
+Rajon Rondo,Cory Joseph,Luka Doncic,Bobby Portis,Isaiah Stewart,Zach LaVine,Kristaps Porzingis,Chris Boucher,20210408,399.0,382.5
+Trae Young,Reggie Jackson,Miles Bridges,Jordan Nwora,Jonas Valanciunas,Zach LaVine,Zion Williamson,Jalen McDaniels,20210409,424.5,400.75
+Stephen Curry,Furkan Korkmaz,Gary Trent Jr,Richaun Holmes,Joel Embiid,Malachi Flynn,Alfonzo McKinnie,Isaiah Hartenstein,20210410,377.25,377.5
+Brandon Goodwin,Caris LeVert,Marcus Morris,Kristaps Porzingis,Jonas Valanciunas,Cory Joseph,Bogdan Bogdanovic,Malcolm Brogdon,20210411,423.0,386.5
+Donovan Mitchell,Furkan Korkmaz,Maurice Harkless,Bojan Bogdanovic,Drew Eubanks,Stephen Curry,Christian Wood,Jonas Valanciunas,20210412,367.0,355.25
+Damian Lillard,Rodney Hood,Jarrell Brantley,Jayson Tatum,Pascal Siakam,Caleb Martin,Luguentz Dort,Bismack Biyombo,20210413,325.25,376.25
+Malcolm Brogdon,Grayson Allen,Jeremy Lamb,Draymond Green,Wendell Carter Jr,Russell Westbrook,Alec Burks,Kelly Olynyk,20210414,391.0,357.0
+Payton Pritchard,Andrew Wiggins,Talen Horton-Tucker,Juan Toscano-Anderson,Clint Capela,Bogdan Bogdanovic,Jaylen Brown,Deandre Ayton,20210415,344.0,337.0
+Coby White,Paul Watson,Naji Marshall,Miles Bridges,Isaiah Stewart,Paul George,Brandon Ingram,Julius Randle,20210416,433.5,398.0
+Darius Garland,Grayson Allen,Devin Vassell,Jayson Tatum,Drew Eubanks,Stephen Curry,Khris Middleton,Isaiah Stewart,20210417,371.5,359.5
+Malcolm Brogdon,Landry Shamet,Terence Davis,PJ Washington,Clint Capela,Terry Rozier,Kevin Huerter,Chris Boucher,20210418,403.25,390.0
+Frank Jackson,DeAnthony Melton,Matisse Thybulle,Andre Iguodala,Joel Embiid,Kendrick Nunn,Jayson Tatum,Ja Morant,20210419,394.0,403.5
+DAngelo Russell,Naji Marshall,Nassir Little,Maurice Harkless,Jeff Green,Paul George,Anthony Edwards,Karl-Anthony Towns,20210420,347.0,339.5
+Bruce Brown,Kyrie Irving,Luke Kennard,Oshae Brissett,Mason Plumlee,Malcolm Brogdon,Kent Bazemore,Joel Embiid,20210421,428.75,402.75
+Devin Cannady,Kentavious Caldwell-Pope,Josh Jackson,Bobby Portis,Andre Drummond,Derrick White,Giannis Antetokounmpo,Jakob Poeltl,20210422,354.5,351.75
+Payton Pritchard,Raul Neto,Miles Bridges,Isaiah Roby,Jusuf Nurkic,Ja Morant,Draymond Green,Russell Westbrook,20210423,387.5,343.75
+Coby White,PJ Dozier,RJ Barrett,Giannis Antetokounmpo,DJ Wilson,Fred VanVleet,Anthony Edwards,Mason Plumlee,20210424,410.25,384.5
+Tyrese Haliburton,Kyrie Irving,Cedi Osman,PJ Washington,Jusuf Nurkic,Darius Garland,Torrey Craig,Jarrett Allen,20210425,385.0,367.25
+Malachi Flynn,DAngelo Russell,DeMar DeRozan,Paul Reed,Nikola Jokic,Dejounte Murray,Trevor Ariza,Daniel Theis,20210426,377.0,368.25
+Luka Doncic,Mychal Mulder,Jaylen Brown,Jeff Green,Oshae Brissett,Anfernee Simons,Christian Wood,Kelly Olynyk,20210427,404.25,409.5
+Facundo Campazzo,Aaron Nesmith,RJ Barrett,Chuma Okeke,Nerlens Noel,Lonzo Ball,Jaylen Brown,Russell Westbrook,20210428,403.5,388.0
+RJ Hampton,Frank Jackson,Saddiq Bey,Doug McDermott,Oshae Brissett,Lonzo Ball,Domantas Sabonis,Luka Doncic,20210501,442.25,426.75
+Derrick Rose,CJ McCollum,Torrey Craig,Kyle Kuzma,Dwight Howard,Kyle Lowry,Kelly Olynyk,Pascal Siakam,20210502,386.0,388.75
+RJ Hampton,Desmond Bane,Saddiq Bey,Rudy Gay,Draymond Green,Russell Westbrook,Danilo Gallinari,Domantas Sabonis,20210503,436.5,410.0
+Delon Wright,Fred VanVleet,Hamidou Diallo,Darius Bazley,Giannis Antetokounmpo,Chris Paul,Sekou Doumbouya,Tim Hardaway Jr,20210504,416.5,413.75
+Ja Morant,Facundo Campazzo,Anthony Edwards,Kelly Olynyk,Onyeka Okongwu,Austin Rivers,Kenyon Martin Jr,Russell Westbrook,20210505,446.5,408.75
+Cory Joseph,Caris LeVert,Wayne Ellington,Danilo Gallinari,Nikola Vucevic,Kyrie Irving,Kyle Kuzma,Robin Lopez,20210506,391.25,380.75
+Armoni Brooks,Tyler Herro,Bojan Bogdanovic,Jarred Vanderbilt,Anthony Davis,Damian Lillard,Kenyon Martin Jr,Deandre Ayton,20210507,402.75,360.25
+Tyrese Maxey,Jalen Harris,Kevin Durant,Juan Toscano-Anderson,Dwight Howard,Russell Westbrook,Kenyon Martin Jr,Jonas Valanciunas,20210508,407.75,387.25
+Eric Bledsoe,Evan Fournier,Jimmy Butler,Chimezie Metu,Jaxson Hayes,Terry Rozier,Trevor Ariza,Anthony Davis,20210509,404.25,389.25
+Nickeil Alexander-Walker,Patty Mills,Isaac Okoro,Kelan Martin,Dean Wade,Jordan Clarkson,Domantas Sabonis,Russell Westbrook,20210510,394.5,374.75
+Saben Lee,Tyler Herro,Kenrich Williams,Jayson Tatum,Draymond Green,Derrick Rose,Andrew Wiggins,Kemba Walker,20210511,394.25,377.0
+Armoni Brooks,Landry Shamet,Bruce Brown,Kyle Kuzma,Kevin Love,Trae Young,Talen Horton-Tucker,Russell Westbrook,20210512,375.25,363.5
+TJ McConnell,Dillon Brooks,Justin James,Julius Randle,Giannis Antetokounmpo,Jrue Holiday,Alec Burks,Stanley Johnson,20210513,428.75,419.25
+Justise Winslow,Mychal Mulder,Louis King,Ignas Brazdeikis,Nikola Jokic,Jordan Poole,Kelly Olynyk,Russell Westbrook,20210514,417.5,393.75
+Devonte Graham,Devin Vassell,Patrick Williams,Thaddeus Young,Anthony Davis,Caris LeVert,Bruce Brown,Miles Bridges,20210515,357.0,339.5
+Kemba Walker,Bradley Beal,Miles Bridges,Doug McDermott,Goga Bitadze,Malik Monk,Oshae Brissett,Jayson Tatum,20210518,328.75,324.25
+Dejounte Murray,Kentavious Caldwell-Pope,Rudy Gay,Draymond Green,Jakob Poeltl,Dillon Brooks,LeBron James,Jonas Valanciunas,20210519,344.25,335.0
+Goran Dragic,Duncan Robinson,Nicolas Batum,Carmelo Anthony,Robert Williams,Damian Lillard,Kawhi Leonard,Luka Doncic,20210522,345.25,343.5
+Derrick Rose,Devin Booker,Alec Burks,Tobias Harris,Derrick Favors,Mike Conley,Dillon Brooks,Trae Young,20210523,372.0,365.75
+Bryn Forbes,Facundo Campazzo,Pat Connaughton,Paul Millsap,Nikola Jokic,Damian Lillard,Giannis Antetokounmpo,Dewayne Dedmon,20210524,338.5,337.25
+Reggie Jackson,Joe Harris,Kawhi Leonard,Maxi Kleber,Tristan Thompson,Luka Doncic,Anthony Davis,Cameron Payne,20210525,352.0,345.75
+Mike Conley,Bradley Beal,DeAndre Hunter,Taj Gibson,Rudy Gobert,Ben Simmons,Royce ONeale,Ja Morant,20210526,337.25,326.0
+Austin Rivers,Facundo Campazzo,Norman Powell,Nemanja Bjelica,Deandre Ayton,Cameron Payne,Anthony Davis,Nikola Jokic,20210527,316.5,303.0
+Reggie Jackson,Terance Mann,Kevin Durant,Jayson Tatum,Nerlens Noel,Derrick Rose,Kawhi Leonard,Tristan Thompson,20210528,353.25,337.5
+Bryn Forbes,Norman Powell,Danny Green,Tobias Harris,Bam Adebayo,Mike Conley,Giannis Antetokounmpo,Brook Lopez,20210529,340.25,333.25
+Payton Pritchard,Kyrie Irving,Nicolas Batum,Jae Crowder,Marc Gasol,James Harden,Jayson Tatum,RJ Barrett,20210530,357.5,346.25
+DeAnthony Melton,Donovan Mitchell,Danny Green,Rui Hachimura,Robin Lopez,Ja Morant,Tobias Harris,Russell Westbrook,20210531,345.5,334.25
+Talen Horton-Tucker,James Harden,Mikal Bridges,Jabari Parker,Robert Covington,Romeo Langford,Jayson Tatum,Damian Lillard,20210601,376.25,364.0
+Tyrese Maxey,Seth Curry,Marcus Morris,Royce ONeale,Rui Hachimura,Donovan Mitchell,Tobias Harris,Luka Doncic,20210602,359.0,348.5
+Monte Morris,Kentavious Caldwell-Pope,Jae Crowder,JaMychal Green,Nikola Jokic,Devin Booker,LeBron James,Carmelo Anthony,20210603,344.25,350.75
+Luka Doncic,Terance Mann,Matisse Thybulle,Marcus Morris,Boban Marjanovic,Kevin Huerter,Kawhi Leonard,Joel Embiid,20210606,347.0,342.5
+Facundo Campazzo,Torrey Craig,Bruce Brown,JaMychal Green,Nikola Jokic,Chris Paul,Mikal Bridges,Kevin Durant,20210607,301.25,297.75
+Jordan Clarkson,Kevin Huerter,Royce ONeale,Danilo Gallinari,Ivica Zubac,Donovan Mitchell,Tobias Harris,Joel Embiid,20210608,319.0,312.5
+Reggie Jackson,Joe Ingles,Bruce Brown,Marcus Morris,Brook Lopez,Khris Middleton,Kevin Durant,Rudy Gobert,20210610,330.75,317.75
+Monte Morris,Furkan Korkmaz,Jae Crowder,Dario Saric,Joel Embiid,Chris Paul,John Collins,Nikola Jokic,20210611,312.25,299.5
+Chris Paul,Pat Connaughton,Jae Crowder,PJ Tucker,Giannis Antetokounmpo,Will Barton,Khris Middleton,Devin Booker,20210613,333.0,322.5
+Patrick Beverley,Joe Ingles,Furkan Korkmaz,Marcus Morris,John Collins,Donovan Mitchell,Kawhi Leonard,Trae Young,20210614,308.5,314.0
+Reggie Jackson,Seth Curry,Marcus Morris,Danilo Gallinari,John Collins,Paul George,Bojan Bogdanovic,Joel Embiid,20210616,373.0,373.25
+Patrick Beverley,Terance Mann,Furkan Korkmaz,Nicolas Batum,Joel Embiid,Reggie Jackson,Kevin Huerter,Donovan Mitchell,20210618,349.5,391.0
+Rajon Rondo,Kevin Huerter,Cameron Johnson,John Collins,Joel Embiid,Cameron Payne,Tobias Harris,Devin Booker,20210620,344.75,343.75
+Rajon Rondo,Paul George,Cameron Johnson,Dario Saric,Deandre Ayton,Cameron Payne,Luke Kennard,Ivica Zubac,20210622,243.75,261.5
+Bogdan Bogdanovic,Pat Connaughton,Solomon Hill,Bobby Portis,John Collins,Jrue Holiday,Giannis Antetokounmpo,Trae Young,20210623,311.25,311.25
+Reggie Jackson,Terance Mann,Luke Kennard,Cameron Johnson,Ivica Zubac,Chris Paul,Mikal Bridges,Paul George,20210624,262.25,279.75
+Bogdan Bogdanovic,Pat Connaughton,PJ Tucker,Bobby Portis,Brook Lopez,Jrue Holiday,Khris Middleton,Giannis Antetokounmpo,20210625,221.75,221.75
+Reggie Jackson,Paul George,Marcus Morris,Jae Crowder,Ivica Zubac,Chris Paul,Mikal Bridges,Deandre Ayton,20210626,267.75,269.25
+Bogdan Bogdanovic,Pat Connaughton,Kevin Huerter,Giannis Antetokounmpo,Clint Capela,Khris Middleton,Bobby Portis,Danilo Gallinari,20210627,280.25,280.25
+Reggie Jackson,Devin Booker,Cameron Johnson,Dario Saric,Deandre Ayton,Paul George,Marcus Morris,DeMarcus Cousins,20210628,273.0,282.0
+Bogdan Bogdanovic,Pat Connaughton,Kevin Huerter,Giannis Antetokounmpo,Clint Capela,Cam Reddish,Bobby Portis,Onyeka Okongwu,20210629,197.25,237.5
+Cameron Payne,Devin Booker,Torrey Craig,Nicolas Batum,Deandre Ayton,Reggie Jackson,Marcus Morris,Chris Paul,20210630,285.5,295.75
+Bogdan Bogdanovic,Cam Reddish,Kevin Huerter,PJ Tucker,Bobby Portis,Jrue Holiday,Khris Middleton,Brook Lopez,20210701,327.75,342.75
